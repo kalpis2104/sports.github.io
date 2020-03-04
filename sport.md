@@ -3,7 +3,6 @@
       xmlns:h="http://xmlns.jcp.org/jsf/html"
       xmlns:f="http://xmlns.jcp.org/jsf/core">
     <h:head>
-        <title>Facelet Title</title>
         <link rel="stylesheet" href="newcss.css" type="text/css"/>
     </h:head>
     <h:body>
