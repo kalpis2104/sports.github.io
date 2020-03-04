@@ -2,10 +2,10 @@
 <html xmlns="http://www.w3.org/1999/xhtml"
       xmlns:h="http://xmlns.jcp.org/jsf/html"
       xmlns:f="http://xmlns.jcp.org/jsf/core">
-    <h:head>
+    <head>
         <link rel="stylesheet" href="newcss.css" type="text/css"/>
-    </h:head>
-    <h:body>
+    <head>
+    <body>
             <div class="header">
             <h1>TRAINING 4U</h1>
         </div>
@@ -18,4 +18,34 @@
   <a href="#" class="right">About Us</a>
 </div>
 
-
+<h:form>
+            <view>
+                <dataTable value="#{SportBean.sportList}" var="item">
+            <column>
+                <facet name="header">
+                    Sport Number
+                </facet>
+                #{item.sportno}
+            </column> 
+            <column>
+                <facet name="header">
+                    Sport Name
+                </facet>
+                #{item.sportname}
+            </column> 
+            <column>
+                <facet name="header">
+                    Sport Description
+                </facet>
+                #{item.sportdescription}
+            </column> 
+            <column>
+                <facet name="header">
+                    Indoor
+                </facet>
+                #{item.indoor}
+            </column> 
+                </dataTable>
+                </view>
+        </form>
+    </body>
