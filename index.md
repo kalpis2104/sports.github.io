@@ -21,10 +21,10 @@ and open the template in the editor.-->
         </div>
        <!-- Navigation -->
 <div class="navbar">
-  <a href="index.html">Home</a>
-  <a href="sport.xhtml">Sport</a>
-  <a href="lesson.xhtml">Lesson</a>
-  <a href="booking.xhtml">Booking Lesson</a>
+  <a href="index.md">Home</a>
+  <a href="sport.md">Sport</a>
+  <a href="lesson.md">Lesson</a>
+  <a href="booking.md">Booking Lesson</a>
   <a href="#" class="right">About Us</a>
 </div>
        <div class="row">
