@@ -18,32 +18,31 @@
   <a href="#" class="right">About Us</a>
 </div>
 
-<h:form>
+<form>
             <view>
                 <dataTable value="#{SportBean.sportList}" var="item">
             <column>
                 <facet name="header">
                     Sport Number
                 </facet>
-                #{item.sportno}
             </column> 
             <column>
                 <facet name="header">
                     Sport Name
                 </facet>
-                #{item.sportname}
+               
             </column> 
             <column>
                 <facet name="header">
                     Sport Description
                 </facet>
-                #{item.sportdescription}
+                
             </column> 
             <column>
                 <facet name="header">
                     Indoor
                 </facet>
-                #{item.indoor}
+               
             </column> 
                 </dataTable>
                 </view>
