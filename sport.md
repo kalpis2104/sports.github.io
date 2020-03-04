@@ -19,8 +19,6 @@
 </div>
 
 <form>
-            <view>
-                <dataTable value="#{SportBean.sportList}" var="item">
             <column>
                 <facet name="header">
                     Sport Number
@@ -29,20 +27,17 @@
             <column>
                 <facet name="header">
                     Sport Name
-                </facet>
-               
+                </facet
             </column> 
             <column>
                 <facet name="header">
                     Sport Description
                 </facet>
-                
             </column> 
             <column>
                 <facet name="header">
                     Indoor
-                </facet>
-               
+                  </facet>
             </column> 
                 </dataTable>
                 </view>
