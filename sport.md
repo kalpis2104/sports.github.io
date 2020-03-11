@@ -21,7 +21,7 @@
 	<table>
 		<thead>
 			<tr>
-				<th>Number</th>
+				<th>Indoor/Outdoor</th>
 				<th>Sport Name</th>
 				<th>Sport Description</th>
 				<th>Price</th>
@@ -29,32 +29,32 @@
 		</thead>
 		<tbody>
 			<tr>
-				<td>Cell 1</td>
-				<td>Cell 2</td>
+				<td>Indoor</td>
+				<td>Zumba</td>
 				<td>Cell 3</td>
 				<td>Cell 4</td>
 			</tr>
 			<tr>
-				<td>Cell 1</td>
-				<td>Cell 2</td>
+				<td>Indoor</td>
+				<td>Body Pump</td>
 				<td>Cell 3</td>
 				<td>Cell 4</td>
 			</tr>
 			<tr>
-				<td>Cell 1</td>
-				<td>Cell 2</td>
+				<td>Outdoor</td>
+				<td>Golf</td>
 				<td>Cell 3</td>
 				<td>Cell 4</td>
 			</tr>
 			<tr>
-				<td>Cell 1</td>
-				<td>Cell 2</td>
+				<td>Outdoor</td>
+				<td>Tennis</td>
 				<td>Cell 3</td>
 				<td>Cell 4</td>
 			</tr>
 			<tr>
-				<td>Cell 1</td>
-				<td>Cell 2</td>
+				<td>Indoor and Outdoor</td>
+				<td>Yoga</td>
 				<td>Cell 3</td>
 				<td>Cell 4</td>
 			</tr>
