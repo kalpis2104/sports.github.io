@@ -163,11 +163,6 @@ input[type-text]{
     background-color: #3cbc8d;
         color:white;
 }
-html,
-body {
-	height: 100%;
-}
-
 body {
 	margin: 0;
 	background: linear-gradient(45deg, #49a09d, #5f2c82);
