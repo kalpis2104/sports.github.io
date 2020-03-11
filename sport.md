@@ -16,33 +16,57 @@
   <a href="lesson.xhtml">Lesson</a>
   <a href="booking.xhtml">Booking Lesson</a>
   <a href="#" class="right">About Us</a>
+</div>  
+        <div class="container">
+	<table>
+		<thead>
+			<tr>
+				<th>Column 1</th>
+				<th>Column 2</th>
+				<th>Column 3</th>
+				<th>Column 4</th>
+				<th>Column 5</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>Cell 1</td>
+				<td>Cell 2</td>
+				<td>Cell 3</td>
+				<td>Cell 4</td>
+				<td>Cell 5</td>
+			</tr>
+			<tr>
+				<td>Cell 1</td>
+				<td>Cell 2</td>
+				<td>Cell 3</td>
+				<td>Cell 4</td>
+				<td>Cell 5</td>
+			</tr>
+			<tr>
+				<td>Cell 1</td>
+				<td>Cell 2</td>
+				<td>Cell 3</td>
+				<td>Cell 4</td>
+				<td>Cell 5</td>
+			</tr>
+			<tr>
+				<td>Cell 1</td>
+				<td>Cell 2</td>
+				<td>Cell 3</td>
+				<td>Cell 4</td>
+				<td>Cell 5</td>
+			</tr>
+			<tr>
+				<td>Cell 1</td>
+				<td>Cell 2</td>
+				<td>Cell 3</td>
+				<td>Cell 4</td>
+				<td>Cell 5</td>
+			</tr>
+		</tbody>
+	</table>
 </div>
-
-<form>
-            <column>
-                <facet name="header">
-                    Sport Number
-                </facet>
-            </column> 
-            <column>
-                <facet name="header">
-                    Sport Name
-                </facet
-            </column> 
-            <column>
-                <facet name="header">
-                    Sport Description
-                </facet>
-            </column> 
-            <column>
-                <facet name="header">
-                    Indoor
-                  </facet>
-            </column> 
-                </dataTable>
-                </view>
-        </form>
-        
 
 </body>
 </html>
