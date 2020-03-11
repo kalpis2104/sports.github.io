@@ -11,21 +11,20 @@
         </div>
        <!-- Navigation -->
 <div class="navbar">
-  <a href="index.html">Home</a>
-  <a href="sport.xhtml">Sport</a>
-  <a href="lesson.xhtml">Lesson</a>
-  <a href="booking.xhtml">Booking Lesson</a>
+  <a href="index.md">Home</a>
+  <a href="sport.md">Sport</a>
+  <a href="lesson.md">Lesson</a>
+  <a href="booking.md">Booking Lesson</a>
   <a href="#" class="right">About Us</a>
 </div>  
         <div class="container">
 	<table>
 		<thead>
 			<tr>
-				<th>Column 1</th>
-				<th>Column 2</th>
-				<th>Column 3</th>
-				<th>Column 4</th>
-				<th>Column 5</th>
+				<th>Number</th>
+				<th>Sport Name</th>
+				<th>Sport Description</th>
+				<th>Price</th>
 			</tr>
 		</thead>
 		<tbody>
@@ -34,35 +33,30 @@
 				<td>Cell 2</td>
 				<td>Cell 3</td>
 				<td>Cell 4</td>
-				<td>Cell 5</td>
 			</tr>
 			<tr>
 				<td>Cell 1</td>
 				<td>Cell 2</td>
 				<td>Cell 3</td>
 				<td>Cell 4</td>
-				<td>Cell 5</td>
 			</tr>
 			<tr>
 				<td>Cell 1</td>
 				<td>Cell 2</td>
 				<td>Cell 3</td>
 				<td>Cell 4</td>
-				<td>Cell 5</td>
 			</tr>
 			<tr>
 				<td>Cell 1</td>
 				<td>Cell 2</td>
 				<td>Cell 3</td>
 				<td>Cell 4</td>
-				<td>Cell 5</td>
 			</tr>
 			<tr>
 				<td>Cell 1</td>
 				<td>Cell 2</td>
 				<td>Cell 3</td>
 				<td>Cell 4</td>
-				<td>Cell 5</td>
 			</tr>
 		</tbody>
 	</table>
