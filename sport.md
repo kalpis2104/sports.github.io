@@ -24,39 +24,33 @@
 				<th>Indoor/Outdoor</th>
 				<th>Sport Name</th>
 				<th>Sport Description</th>
-				<th>Price</th>
 			</tr>
 		</thead>
 		<tbody>
 			<tr>
 				<td>Indoor</td>
 				<td>Zumba</td>
-				<td>Cell 3</td>
-				<td>Cell 4</td>
+				<td>Zumba is a fitness program that combines Latin and international music with dance moves. Zumba routines incorporate interval training ,alternating fast and slow rhythms and to help improve cardiovascular fitness.</td>
 			</tr>
 			<tr>
 				<td>Indoor</td>
 				<td>Body Pump</td>
-				<td>Cell 3</td>
-				<td>Cell 4</td>
+				<td>BODYPUMP is a fast-paced, barbell-based workout that's specifically designed to help you get lean, toned and fit. It uses a combination of motivating music, fantastic instructors and scientifically proven moves to help you achieve these targets more quickly than you would working out on your own.</td>
 			</tr>
 			<tr>
 				<td>Outdoor</td>
 				<td>Golf</td>
-				<td>Cell 3</td>
-				<td>Cell 4</td>
+				<td>Golf is an individual sport played by hitting a ball with a club from a tee into a hole. The object is to get the ball into the hole with the least number of swings or strokes of the club.</td>
 			</tr>
 			<tr>
 				<td>Outdoor</td>
 				<td>Tennis</td>
-				<td>Cell 3</td>
-				<td>Cell 4</td>
+				<td>Tennis is a racket sport that can be played individually against a single opponent (singles) or between two teams of two players each (doubles). Each player uses a tennis racket that is strung with cord to strike a hollow rubber ball covered with felt over or around a net and into the opponent's court.</td>
 			</tr>
 			<tr>
 				<td>Indoor and Outdoor</td>
 				<td>Yoga</td>
-				<td>Cell 3</td>
-				<td>Cell 4</td>
+				<td>Yoga is a mind and body practice with a 5,000-year history in ancient Indian philosophy. Various styles of yoga combine physical postures, breathing techniques, and meditation or relaxation. </td>
 			</tr>
 		</tbody>
 	</table>
